@@ -42,5 +42,11 @@
         "content": "Working on adding three beautiful random buttons.",
         "timestamp": "29072024072121",
         "message_id": "guest29072024072120"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the three random beautiful buttons, in which part of the app would you like these to be positioned?\", \"option1\": \"On the main screen, easily accessible\", \"option2\": \"In the settings menu, for more specialized functions\"}, {\"question 2\": \"What primary functions should these buttons perform?\", \"option1\": \"Navigate to different sections of the app\", \"option2\": \"Change app settings or themes\"}], \"input_token_count\": 259, \"output_token_count\": 101, \"time_taken\": \"0:00:04.567592\"}",
+        "timestamp": "29072024072126",
+        "message_id": "guest29072024072120"
     }
 ]
