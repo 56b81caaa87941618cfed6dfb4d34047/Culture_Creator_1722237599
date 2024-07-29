@@ -18,7 +18,17 @@ Vue.component("blank_component_1722237655", {
             <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
             <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
                 <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
-
+                    <div class="flex space-x-4">
+                        <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
+                            <i class='bx bx-cool mr-2'></i>Awesome
+                        </button>
+                        <button class="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
+                            <i class='bx bx-leaf mr-2'></i>Nature
+                        </button>
+                        <button class="bg-purple-500 hover:bg-purple-600 text-white font-bold py-2 px-4 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105">
+                            <i class='bx bx-ghost mr-2'></i>Spooky
+                        </button>
+                    </div>
                 </div>
             </section>  
         </div>          
