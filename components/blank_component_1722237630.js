@@ -16,11 +16,24 @@ Vue.component("blank_component_1722237630", {
         <div>
             <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
             <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-            <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
-                <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
-
+            <div class="grid">
+                <div class="flex-1">
+                    <nav class="bg-gray-800 text-white h-screen w-64 p-5">
+                        <ul class="space-y-4">
+                            <li><a href="#" class="flex items-center space-x-2 hover:text-gray-300"><i class='bx bx-home'></i><span>Home</span></a></li>
+                            <li><a href="#" class="flex items-center space-x-2 hover:text-gray-300"><i class='bx bx-info-circle'></i><span>About</span></a></li>
+                            <li><a href="#" class="flex items-center space-x-2 hover:text-gray-300"><i class='bx bx-envelope'></i><span>Contact</span></a></li>
+                        </ul>
+                    </nav>
                 </div>
-            </section>  
+                <div class="flex-1">
+                    <section id="blank-section" class="bg-white dark:bg-gray-900 flex-1">
+                        <div id="blank-container" class="max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
+
+                        </div>
+                    </section>  
+                </div>
+            </div>
         </div>          
     `,
     data() {
