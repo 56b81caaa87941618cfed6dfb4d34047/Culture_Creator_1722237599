@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1722237600",
+        "role": "chat_acknowledge",
+        "content": "Alright, I'll add three beautiful buttons to the project.",
+        "message_id": "guest29072024073209",
+        "timestamp": "29072024073210",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with the navlinks home, about and contact",
-        "timestamp": "29072024072035",
-        "message_id": "guest29072024072035"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, I will add the sidebar with home, about, and contact links.",
-        "timestamp": "29072024072036",
-        "message_id": "guest29072024072035"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be permanently visible or should it become visible when a menu icon is clicked?\", \"option1\": \"Permanently visible\", \"option2\": \"Visible on menu icon click\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 264, \"output_token_count\": 93, \"time_taken\": \"0:00:04.364419\"}",
-        "timestamp": "29072024072040",
-        "message_id": "guest29072024072035"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sidebar for better navigation on mobile devices\", \"checked\": true}, {\"feature\": \"Footer with social media links (Facebook, Twitter, Instagram)\", \"checked\": false}, {\"feature\": \"Search functionality in the sidebar to quickly find topics or pages\", \"checked\": true}, {\"feature\": \"Sidebar section for latest posts or popular topics to increase engagement\", \"checked\": false}, {\"feature\": \"Theme toggle button (light/dark mode) in the sidebar for user preference\", \"checked\": true}, {\"feature\": \"Localization options in the sidebar for selecting preferred language\", \"checked\": false}], \"input_token_count\": 218, \"output_token_count\": 127, \"time_taken\": \"0:00:05.607446\"}",
-        "timestamp": "29072024072042",
-        "message_id": "guest29072024072035"
-    },
-    {
-        "role": "user",
-        "content": "add a three random beautiful buttons ",
-        "timestamp": "29072024072120",
-        "message_id": "guest29072024072120"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Working on adding three beautiful random buttons.",
-        "timestamp": "29072024072121",
-        "message_id": "guest29072024072120"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the three random beautiful buttons, in which part of the app would you like these to be positioned?\", \"option1\": \"On the main screen, easily accessible\", \"option2\": \"In the settings menu, for more specialized functions\"}, {\"question 2\": \"What primary functions should these buttons perform?\", \"option1\": \"Navigate to different sections of the app\", \"option2\": \"Change app settings or themes\"}], \"input_token_count\": 259, \"output_token_count\": 101, \"time_taken\": \"0:00:04.567592\"}",
-        "timestamp": "29072024072126",
-        "message_id": "guest29072024072120"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Gradient color scheme for buttons to enhance visual appeal\", \"checked\": true}, {\"feature\": \"Hover effects to give feedback to users on button interaction\", \"checked\": true}, {\"feature\": \"Rounded corners for a modern, friendly button design\", \"checked\": true}, {\"feature\": \"Shadow effects for buttons to create a sense of depth\", \"checked\": false}, {\"feature\": \"Customizable button sizes for better UI hierarchy and importance\", \"checked\": false}, {\"feature\": \"Animation on click to provide visual feedback and enhance user experience\", \"checked\": false}], \"input_token_count\": 213, \"output_token_count\": 133, \"time_taken\": \"0:00:05.693943\"}",
-        "timestamp": "29072024072127",
-        "message_id": "guest29072024072120"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add three random beautiful buttons",
+        "message_id": "guest29072024073209",
+        "timestamp": "29072024073210",
+        "component_file_name": "blank_component_1722238309",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Gradient color scheme for buttons to enhance visual appeal\", \"checked\": true}, {\"feature\": \"Hover effects to give feedback to users on button interaction\", \"checked\": true}, {\"feature\": \"Rounded corners for a modern, friendly button design\", \"checked\": true}, {\"feature\": \"Shadow effects for buttons to create a sense of depth\", \"checked\": false}, {\"feature\": \"Customizable button sizes for better UI hierarchy and importance\", \"checked\": false}, {\"feature\": \"Animation on click to provide visual feedback and enhance user experience\", \"checked\": false}], \"input_token_count\": 213, \"output_token_count\": 133, \"time_taken\": \"0:00:05.693943\"}",
+        "message_id": "guest29072024072120",
+        "timestamp": "29072024072127",
+        "component_file_name": "blank_component_1722237655",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the three random beautiful buttons, in which part of the app would you like these to be positioned?\", \"option1\": \"On the main screen, easily accessible\", \"option2\": \"In the settings menu, for more specialized functions\"}, {\"question 2\": \"What primary functions should these buttons perform?\", \"option1\": \"Navigate to different sections of the app\", \"option2\": \"Change app settings or themes\"}], \"input_token_count\": 259, \"output_token_count\": 101, \"time_taken\": \"0:00:04.567592\"}",
+        "message_id": "guest29072024072120",
+        "timestamp": "29072024072126",
+        "component_file_name": "blank_component_1722237655",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Working on adding three beautiful random buttons.",
+        "message_id": "guest29072024072120",
+        "timestamp": "29072024072121",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a three random beautiful buttons ",
+        "message_id": "guest29072024072120",
+        "timestamp": "29072024072120",
+        "component_file_name": "blank_component_1722237655",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Expandable sidebar for better navigation on mobile devices\", \"checked\": true}, {\"feature\": \"Footer with social media links (Facebook, Twitter, Instagram)\", \"checked\": false}, {\"feature\": \"Search functionality in the sidebar to quickly find topics or pages\", \"checked\": true}, {\"feature\": \"Sidebar section for latest posts or popular topics to increase engagement\", \"checked\": false}, {\"feature\": \"Theme toggle button (light/dark mode) in the sidebar for user preference\", \"checked\": true}, {\"feature\": \"Localization options in the sidebar for selecting preferred language\", \"checked\": false}], \"input_token_count\": 218, \"output_token_count\": 127, \"time_taken\": \"0:00:05.607446\"}",
+        "message_id": "guest29072024072035",
+        "timestamp": "29072024072042",
+        "component_file_name": "blank_component_1722237630",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be permanently visible or should it become visible when a menu icon is clicked?\", \"option1\": \"Permanently visible\", \"option2\": \"Visible on menu icon click\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 264, \"output_token_count\": 93, \"time_taken\": \"0:00:04.364419\"}",
+        "message_id": "guest29072024072035",
+        "timestamp": "29072024072040",
+        "component_file_name": "blank_component_1722237630",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I will add the sidebar with home, about, and contact links.",
+        "message_id": "guest29072024072035",
+        "timestamp": "29072024072036",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the navlinks home, about and contact",
+        "message_id": "guest29072024072035",
+        "timestamp": "29072024072035",
+        "component_file_name": "blank_component_1722237630",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "29072024073210",
         "message_id": "guest29072024073209"
     }
