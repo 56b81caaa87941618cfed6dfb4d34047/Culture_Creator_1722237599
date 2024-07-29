@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the sidebar to be permanently visible or should it become visible when a menu icon is clicked?\", \"option1\": \"Permanently visible\", \"option2\": \"Visible on menu icon click\"}, {\"question 2\": \"Should the sidebar be positioned on the left or right side of the screen?\", \"option1\": \"Left side\", \"option2\": \"Right side\"}], \"input_token_count\": 264, \"output_token_count\": 93, \"time_taken\": \"0:00:04.364419\"}",
+        "message_id": "guest29072024072035",
+        "timestamp": "29072024072040",
+        "component_file_name": "blank_component_1722237630",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I will add the sidebar with home, about, and contact links.",
         "message_id": "guest29072024072035",
