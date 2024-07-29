@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "add a three random beautiful buttons "
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a sidebar with the navlinks home, about and contact\nAI: Got it, I will add the sidebar with home, about, and contact links.\nUser: add a three random beautiful buttons \nAI: Working on adding three beautiful random buttons.\nThis is the user's current request of changes to be made: add three random beautiful buttons"
     }
 ]
